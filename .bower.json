@@ -1,0 +1,14 @@
+{
+  "name": "ueditor-utf8-jsp",
+  "homepage": "https://github.com/JadsonDeng/ueditor-utf8-jsp",
+  "_release": "c582fc9c3d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c582fc9c3d55286fe2401b470fc2355f12fe7452"
+  },
+  "_source": "https://github.com/JadsonDeng/ueditor-utf8-jsp.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/JadsonDeng/ueditor-utf8-jsp.git",
+  "_direct": true
+}
